@@ -1,5 +1,3 @@
-# Dooom.github.io
-Top 100
 <!DOCTYPE html>
 <html lang="ru">
 <head>
